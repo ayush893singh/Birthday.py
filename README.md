@@ -14,13 +14,13 @@ My Birthday Celebration is a simple Python program created to celebrate a birthd
 - Animated text output
 - Simple and interactive interface
 
-Technologies Used
+# Technologies Used
 
 - Python 3
 - "time" module
 - "random" module
 
-Requirements
+# Requirements
 
 - Python 3.x
 - No external libraries required
