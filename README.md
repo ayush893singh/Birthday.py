@@ -93,7 +93,7 @@ This project helps beginners understand:
 - Add birthday countdown by date
 - Build a birthday webpage version
 
-Author
+# Author
 
 Ayush Singh
 
