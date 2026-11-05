@@ -72,7 +72,7 @@ My-Birthday/
 ├── MyBirthday.py
 └── README.md
 
-Learning Objectives
+# Learning Objectives
 
 This project helps beginners understand:
 
