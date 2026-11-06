@@ -99,6 +99,6 @@ Ayush Singh
 
 GitHub: https://github.com/ayush893singh
 
-License
+# License
 
 This project is available for educational and personal use.
