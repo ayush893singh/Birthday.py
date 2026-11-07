@@ -74,7 +74,7 @@ My-Birthday/
 
 # Learning Objectives
 
-This project helps beginners understand:
+# This project helps beginners understand:
 
 - Python variables and user input
 - Conditional statements
