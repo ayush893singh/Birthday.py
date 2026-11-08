@@ -4,6 +4,10 @@ About the Project
 
 My Birthday Celebration is a simple Python program created to celebrate a birthday through a fun terminal-based experience. It displays a personalized birthday greeting, an ASCII birthday cake, a countdown, and special motivational messages.
 
+# License
+This project is available for educational and personal use.
+
+
 # Features
 
 - Personalized birthday greeting
@@ -99,6 +103,3 @@ Ayush Singh
 
 GitHub: https://github.com/ayush893singh
 
-# License
-
-This project is available for educational and personal use.
