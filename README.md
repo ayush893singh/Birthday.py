@@ -82,15 +82,6 @@ Keep smiling and keep growing!
 - Random selections using "random.choice()"
 - Printing formatted text in the terminal
 
-# Future Improvements
-
-- Add a birthday age calculator
-- Display a personalized secret message
-- Add more cake designs
-- Create a graphical birthday interface
-- Add birthday countdown by date
-- Build a birthday webpage version
-
 # Author
 
 Ayush Singh
