@@ -1,6 +1,6 @@
 # My Birthday Celebration
 
-About the Project
+# About the Project
 
 My Birthday Celebration is a simple Python program created to celebrate a birthday through a fun terminal-based experience. It displays a personalized birthday greeting, an ASCII birthday cake, a countdown, and special motivational messages.
 
