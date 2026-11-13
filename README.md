@@ -70,8 +70,6 @@ May your dreams come true!
 May your life be full of happiness!
 Keep smiling and keep growing!
 
-# Learning Objectives
-
 # This project helps beginners understand:
 
 - Python variables and user input
@@ -83,8 +81,5 @@ Keep smiling and keep growing!
 - Printing formatted text in the terminal
 
 # Author
-
 Ayush Singh
-
 GitHub: https://github.com/ayush893singh
-
