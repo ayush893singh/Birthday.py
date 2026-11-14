@@ -72,13 +72,9 @@ Keep smiling and keep growing!
 
 # This project helps beginners understand:
 
-- Python variables and user input
+- Python variables and user input XXL
 - Conditional statements
 - Loops
-- Functions of built-in modules
-- Delays using "time.sleep()"
-- Random selections using "random.choice()"
-- Printing formatted text in the terminal
 
 # Author
 Ayush Singh
